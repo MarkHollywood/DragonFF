@@ -28,7 +28,7 @@ The following is a list of supported features by the addon
   - [ ] Dual Textures
   - [X] UV Animation
 - [X] Rockstar Specular and Reflection Extensions
-- [ ] 2D Effects
+- [X] 2D Effects
 
 ## Installation
 
