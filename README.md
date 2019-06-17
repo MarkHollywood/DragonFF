@@ -46,5 +46,5 @@ The python scripts have been designed with reusability in mind. As of now, the d
 * [X] - DFF - `dff.py`
 * [ ] - TXD - `txd.py`
 * [X] - COL - `col.py`
-* [ ] - IPL/IDE - `map.py`
+* [X] - IPL/IDE - `map.py`
 * [ ] - IFP - `ifp.py`
